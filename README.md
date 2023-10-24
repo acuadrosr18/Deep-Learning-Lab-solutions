@@ -11,7 +11,7 @@ Your feedback is invaluable and will greatly assist in the ongoing refinement of
   - [02_pytorch_lightning_CNN Ipynb](2nd_practice_DL_02_pytorch_lightning_CNN.ipynb)
 - [03a_task_hyperopt_wandb Gist](https://gist.github.com/acuadrosr18/549dcf48d8a196d204605c343e8eff6a)
   - [03a_task_hyperopt_wandb Ipynb](2nd_practice_DL_03a_task_hyperopt_wandb.ipynb)
-- [04a_optional_task_hyperopt_wandb_sweep Gist](https://gist.github.com/acuadrosr18/549dcf48d8a196d204605c343e8eff6a) *Will be updated
-  - [04a_optional_task_hyperopt_wandb_sweep Ipynb](2nd_practice_DL_04a_optional_task_hyperopt_wandb_sweep.ipynb) *Will be updated
-  - [04a_.csv](wandb_export_2023-10-17T23_19_11.145+02_00.csv) *Will be updated
-  - [04a_Report](https://api.wandb.ai/links/alecuadrosrivas/2l9f4bzy) *Will be updated
+- [04a_optional_task_hyperopt_wandb_sweep Gist](https://gist.github.com/acuadrosr18/549dcf48d8a196d204605c343e8eff6a) 
+  - [04a_optional_task_hyperopt_wandb_sweep Ipynb](2nd_practice_DL_04a_optional_task_hyperopt_wandb_sweep.ipynb)
+  - [04a_.csv](wandb_export_2023-10-17T23_19_11.145+02_00.csv) 
+  - [04a_Report](https://api.wandb.ai/links/alecuadrosrivas/j5vynaym)
