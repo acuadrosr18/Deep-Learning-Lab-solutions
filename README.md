@@ -17,5 +17,5 @@ Your feedback is invaluable and will greatly assist in the ongoing refinement of
   - [04a_Report](https://api.wandb.ai/links/alecuadrosrivas/j5vynaym)
 
 ## 3rd Practice (Classification & Regression)
-- [3rd Practice_Regression](3rd Practice_Regression.ipynb)
+- [3rd Practice_Regression](3rd_Practice_Regression.ipynb)
 - [Gist](https://gist.github.com/acuadrosr18/bccd68a511a6be14984be2526ecb3037)
