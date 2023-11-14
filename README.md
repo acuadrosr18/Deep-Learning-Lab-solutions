@@ -21,3 +21,7 @@ Your feedback is invaluable and will greatly assist in the ongoing refinement of
 - [Gist](https://gist.github.com/acuadrosr18/bccd68a511a6be14984be2526ecb3037)
 - [mlp_results.csv](ensemble_results.csv)
 - [ensemble_results.csv](mlp_results.csv)
+
+## 4th Practice (Computer Vision)
+- [4th Practice_Computer Vision](4th_Practice_ComputerVision.ipynb)
+- [Gist](https://gist.github.com/acuadrosr18/a70ca75fc56c1554b9ebcc69b86bd3b1)
