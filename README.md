@@ -25,3 +25,11 @@ Your feedback is invaluable and will greatly assist in the ongoing refinement of
 ## 4th Practice (Computer Vision)
 - [4th Practice_Computer Vision](4th_Practice_ComputerVision.ipynb)
 - [Gist](https://gist.github.com/acuadrosr18/a70ca75fc56c1554b9ebcc69b86bd3b1)
+
+## 5th Practice (Text-to-speech synthesis)
+- [5th Practice_Text-to-speech synthesis](5th_Practice_Text_to_speech_synthesis.ipynb)
+  - [Gist](https://gist.github.com/acuadrosr18/cd48edf9cd596376839fa3620f55c821)
+- [5th Practice_Homework](5th_Practice_Homework.ipynb)
+  - [Gist](https://gist.github.com/acuadrosr18/1e7bb299f6751f0d46bd4722eeecfe16)
+
+
